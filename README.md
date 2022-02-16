@@ -2,9 +2,9 @@
 #### Junior IT guy
 I made this project just for introduce myself, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Linux / PC & Laptop Repair
+Skills: PC & Laptop Repair
 
-- 🌱 I’m currently learning Python QA Automation 
+- 🌱 I’m currently learning Python and QA Automation 
 - 🤔 I’m looking for help with Python 
 
 
